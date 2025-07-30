@@ -1,59 +1,68 @@
-<h1 align="center">Hey there 👋, I'm Rhythm</h1>
-<h3 align="center">2nd Year CS Student | Developer in Progress | Obsessed with Building & Learning</h3>
+<h1 align="center">Hey 👋, I'm Rhythm</h1>
+<h3 align="center">🚀 CS Undergrad | Web Dev & C++ Learner | Cybersecurity Explorer | Building cool stuff, one bug at a time 🐛</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=Welcome+to+my+GitHub!;CS+Student+%7C+Web+Dev+%7C+C%2B%2B+%7C+Cybersecurity;Always+Learning+%F0%9F%92%BB;Let%E2%80%99s+Build+Something+Cool+Together" />
+</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently pursuing **B.Tech in Computer Science** at **Chitkara University, Punjab**
-- 💻 Learning and building in **C++**, **Data Structures & Algorithms**, and **Web Development**
-- 🔐 Exploring **Cybersecurity**, system internals, and how things break (and how to fix them)
-- 🔧 Currently working on: side projects, portfolio, and sharpening my dev fundamentals
-- 📈 Long-term goal: Become a **skilled engineer** who builds useful, secure, and scalable software
+- 🎓 2nd year **Computer Science** student at **Chitkara University, Punjab**
+- 💻 Currently diving into **C++**, **Data Structures & Algorithms**, **DBMS**, and **Cybersecurity**
+- 🔨 Love building **web & mobile apps**, and exploring how things break (and how to fix them)
+- ⚡ Always working on side-projects and trying to make sense of the bugs 😄
+- 🎯 Goal: Build practical, secure, and impactful software
 
 ---
 
-### 🚀 Tech Stack & Tools
+### 🔧 Tech Stack & Tools
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,github,git,linux,vscode" />
+</p>
 
 ---
 
-### 📌 Projects & Experiments
+### 📈 GitHub Stats
 
-> Here's a taste of what I’ve built and am building — more coming soon!
-
-- 🖥️ **Portfolio Website** – Personal dev portfolio (in progress)
-- 📱 **Weather App** – Simple app using OpenWeatherMap API & React
-- ⚙️ **DSA Visualizer** – C++ CLI tool to visualize sorting/searching
-- 🛡️ **Basic Vulnerability Scanner** – Cybersecurity learning project
-
-👉 More projects available [on my repos](https://github.com/yourusername?tab=repositories)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rhythmadl56&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhythmadl56&layout=compact&theme=radical" height="160"/>
+</p>
 
 ---
 
-### 📚 Currently Learning
+### 🔥 GitHub Streak
 
-- 🔍 Data Structures & Algorithms (in C++)
-- 💾 Database Management Systems (DBMS)
-- ⚒️ Object-Oriented Programming (OOP)
-- 🌐 Frontend Frameworks (React, TailwindCSS)
-- 🔐 Cybersecurity Fundamentals
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rhythmadl56&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 📬 Let's Connect
+### 🧠 Currently Learning
 
-- 🌐 [Linktree](https://linktr.ee/yourusername)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
-- 📫 Email: yourname@example.com
+- 🔸 Data Structures & Algorithms in C++
+- 🔸 Full-Stack Web Development
+- 🔸 Object-Oriented Programming (OOP)
+- 🔸 Cybersecurity Fundamentals
+- 🔸 Git & GitHub Workflows
 
 ---
 
-<p align="center">Thanks for stopping by! 🚀</p>
+### 📫 Let’s Connect!
+
+- 📧 Email: ronakfreaksout@gmail.com  
+- 🌐 [Linktree](https://linktr.ee/yourusername)
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</div>
+
+---
+
+<p align="center">Built with 💻, ☕, and way too many bugs 🐞</p>

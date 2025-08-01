@@ -34,14 +34,6 @@
 
 ---
 
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rhythmadl56&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🧠 Currently Learning
 
 - 🔸 Data Structures & Algorithms in C++
@@ -55,7 +47,7 @@
 ### 📫 Let’s Connect!
 
 - 📧 Email: ronakfreaksout@gmail.com  
-- 🌐 [Linktree](https://linktr.ee/yourusername)
+- 🌐 [Linktree](https://linktr.ee/ronakadl)
 
 ---
 

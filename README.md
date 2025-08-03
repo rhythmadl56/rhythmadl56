@@ -1,60 +1,67 @@
-<h1 align="center">Hey 👋, I'm Rhythm</h1>
-<h3 align="center">🚀 CS Undergrad | Web Dev & C++ Learner | Cybersecurity Explorer | Building cool stuff, one bug at a time 🐛</h3>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=Welcome+to+my+GitHub!;CS+Student+%7C+Web+Dev+%7C+C%2B%2B+%7C+Cybersecurity;Always+Learning+%F0%9F%92%BB;Let%E2%80%99s+Build+Something+Cool+Together" />
-</div>
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 2nd year **Computer Science** student at **Chitkara University, Punjab**
-- 💻 Currently diving into **C++**, **Data Structures & Algorithms**, **DBMS**, and **Cybersecurity**
-- 🔨 Love building **web & mobile apps**, and exploring how things break (and how to fix them)
-- ⚡ Always working on side-projects and trying to make sense of the bugs 😄
-- 🎯 Goal: Build practical, secure, and impactful software
-
----
-
-### 🔧 Tech Stack & Tools
+<h1 align="center">Hi, I'm Rhythm 👋</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,github,git,linux,vscode" />
+  <b>A passionate Computer Science student | Future Software Engineer | Lifelong Learner</b>
 </p>
+
+<p align="center">
+  <a href="https://github.com/rhythmadl56">
+    <img src="https://img.shields.io/github/followers/rhythmadl56?label=Follow&style=social" />
+  </a>
+  <a href="mailto:rhythmadl56@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🎓 3rd Semester B.Tech CSE Student  
+- 👨‍💻 Currently diving deep into **DSA in C++** and **Full-Stack Web Development**
+- 🔧 Building personal projects to become a self-sufficient developer  
+- 📈 Interested in Open Source, Backend Dev, Cybersecurity, and Real-world Tech Impact  
+- 💼 Preparing for paid internships by the end of 2nd year
+
+---
+
+### 🛠️ Tech Stack
+
+- 💻 **Languages:** C++, JavaScript, HTML5, CSS3  
+- 🧠 **Core:** DSA, OOP, DBMS, OS  
+- 🧰 **Tools:** Git, GitHub, VS Code, Postman, Chrome DevTools  
+- 🌐 **Web Dev:** React.js, Node.js, Express.js, MongoDB  
+- 📦 **Deployment:** Vercel, Netlify, Render  
+- 📊 **Currently Learning:** REST APIs, Authentication, Firebase  
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhythmadl56&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhythmadl56&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rhythmadl56&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhythmadl56&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-### 🧠 Currently Learning
-
-- 🔸 Data Structures & Algorithms in C++
-- 🔸 Full-Stack Web Development
-- 🔸 Object-Oriented Programming (OOP)
-- 🔸 Cybersecurity Fundamentals
-- 🔸 Git & GitHub Workflows
+### 🧠 Fun Fact
+> I believe in figuring things out, not waiting to be taught. If I get stuck, I grind till I get it.  
+> **If I don’t know it, I learn it. If I break it, I fix it.**
 
 ---
 
-### 📫 Let’s Connect!
+### 📬 Let's Connect
 
-- 📧 Email: ronakfreaksout@gmail.com  
-- 🌐 [Linktree](https://linktr.ee/ronakadl)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rhythmadl" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:ronakfreaksout@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</div>
-
----
-
-<p align="center">Built with 💻, ☕, and way too many bugs 🐞</p>
+<p align="center"><i>“Code. Break. Learn. Repeat.”</i></p>

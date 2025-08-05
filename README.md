@@ -5,9 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/rhythmadl56">
-    <img src="https://img.shields.io/github/followers/rhythmadl56?label=Follow&style=social" />
-  </a>
 </p>
 
 ---

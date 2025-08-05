@@ -1,61 +1,67 @@
-<h1 align="center">Hi, I'm Rhythm 👋</h1>
-
-<p align="center">
-  <b>A passionate Computer Science student | Future Software Engineer | Lifelong Learner</b>
-</p>
-
-<p align="center">
-</p>
+# Hi, I'm Rhythm 👋  
+A passionate Computer Science student | Future Software Engineer | Lifelong Learner
 
 ---
 
-### 🚀 About Me
-
-- 🎓 3rd Semester B.Tech CSE Student  
-- 👨‍💻 Currently diving deep into **DSA in C++** and **Full-Stack Web Development**
-- 🔧 Building personal projects to become a self-sufficient developer  
-- 📈 Interested in Open Source, Backend Dev, Cybersecurity, and Real-world Tech Impact  
-- 💼 Preparing for paid internships by the end of 2nd year
-
----
-
-### 🛠️ Tech Stack
-
-- 💻 **Languages:** C++, JavaScript, HTML5, CSS3  
-- 🧠 **Core:** DSA, OOP, DBMS, OS  
-- 🧰 **Tools:** Git, GitHub, VS Code, Postman, Chrome DevTools  
-- 🌐 **Web Dev:** React.js, Node.js, Express.js, MongoDB  
-- 📦 **Deployment:** Vercel, Netlify, Render  
-- 📊 **Currently Learning:** REST APIs, Authentication, Firebase  
+## 🚀 About Me
+- 🎓 3rd Semester B.Tech CSE Student from Chandigarh, India  
+- 💻 Currently diving deep into **DSA in C++** and **Full-Stack Web Development**
+- 🧠 Building personal projects to become a **self-sufficient developer**
+- 🛠️ Interested in **Open Source, Backend Dev, Cybersecurity**, and real-world tech impact
+- 🎯 Preparing for **paid internships** by the end of 2nd year
 
 ---
 
-### 📈 GitHub Stats
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhythmadl56&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhythmadl56&theme=tokyonight" height="160"/>
-</p>
+### 💻 Languages & Markup
+`C++` `JavaScript` `HTML5` `CSS3`
 
----
+### 🔍 Core CS Subjects
+`DSA` `OOP` `DBMS` `OS`
 
-### 🧠 Fun Fact
-> I believe in figuring things out, not waiting to be taught. If I get stuck, I grind till I get it.  
-> **If I don’t know it, I learn it. If I break it, I fix it.**
+### 🔧 Tools & Platforms
+`Git` `GitHub` `VS Code` `Postman` `Chrome DevTools`
 
----
+### 🌐 Web Dev
+`React.js` `Node.js` `Express.js` `MongoDB`
 
-### 📬 Let's Connect
+### 🚀 Deployment
+`Vercel` `Netlify` `Render`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rhythmadl" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:ronakfreaksout@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### 🧪 Currently Learning
+`REST APIs` `Authentication` `Firebase`
 
 ---
 
-<p align="center"><i>“Code. Break. Learn. Repeat.”</i></p>
+## 📂 Featured Projects
+
+- 🔐 [**SecureVault**](https://github.com/your-repo-link)  
+  A secure password manager built with Node.js, Express, and MongoDB with user authentication.
+
+- 📝 [**Blogify**](https://github.com/your-repo-link)  
+  Full-stack blogging platform with Markdown support, comment system, and custom theming.
+
+- 🧠 [**DSA Tracker**](https://github.com/your-repo-link)  
+  A structured collection of solved LeetCode problems categorized by topic and difficulty.
+
+> *More projects coming soon — currently building, learning, and refining.*
+
+---
+
+## 📈 GitHub Stats
+
+![Rhythm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhythmadl56&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rhythmadl56&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/rhythmadl)  
+📧 rhythmadl56@gmail.com
+
+---
+
+### 🧠 Always learning. Always building. Let's connect and create something impactful.

@@ -36,18 +36,16 @@ A passionate Computer Science student | Future Software Engineer | Lifelong Lear
 
 ## 📂 Featured Projects
 
-- 🔐 [**SecureVault**](https://github.com/your-repo-link)  
-  A secure password manager built with Node.js, Express, and MongoDB with user authentication.
+- 🔐 **SecureVault** *(In Progress)*  
+  Building a secure password manager using Node.js and MongoDB with JWT-based user authentication.
 
-- 📝 [**Blogify**](https://github.com/your-repo-link)  
-  Full-stack blogging platform with Markdown support, comment system, and custom theming.
+- 📝 **Blogify** *(Coming Soon)*  
+  Planning a full-stack blog platform using React + Express. Will include Markdown support and comment system.
 
-- 🧠 [**DSA Tracker**](https://github.com/your-repo-link)  
-  A structured collection of solved LeetCode problems categorized by topic and difficulty.
+- 🧠 **DSA Tracker** *(WIP)*  
+  Organizing solved Leetcode problems by topic (Arrays, Strings, Trees) to track learning progress in C++.
 
-> *More projects coming soon — currently building, learning, and refining.*
-
----
+> Working hard to complete and deploy these projects. Stay tuned.
 
 ## 📈 GitHub Stats
 

@@ -8,9 +8,6 @@
   <a href="https://github.com/rhythmadl56">
     <img src="https://img.shields.io/github/followers/rhythmadl56?label=Follow&style=social" />
   </a>
-  <a href="mailto:rhythmadl56@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---

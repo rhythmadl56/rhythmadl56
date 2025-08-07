@@ -34,7 +34,7 @@ A passionate Computer Science student | Future Software Engineer | Lifelong Lear
 
 ---
 
-## 📂 Featured Projects
+## 📂 Upcoming Projects
 
 - 🔐 **SecureVault** *(In Progress)*  
   Building a secure password manager using Node.js and MongoDB with JWT-based user authentication.

@@ -5,7 +5,7 @@ A passionate Computer Science student | Future Software Engineer | Lifelong Lear
 
 ## 🚀 About Me
 - 🎓 3rd Semester B.Tech CSE Student from Chandigarh, India  
-- 💻 Currently diving deep into **DSA in C++** and **Full-Stack Web Development**
+- 💻 Currently diving deep into **DSA in Java** and **Full-Stack Web Development**
 - 🧠 Building personal projects to become a **self-sufficient developer**
 - 🛠️ Interested in **Open Source, Backend Dev, Cybersecurity**, and real-world tech impact
 - 🎯 Preparing for **paid internships** by the end of 2nd year

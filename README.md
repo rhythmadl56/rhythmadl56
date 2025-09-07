@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 - 🌱 Currently diving deep into **Java, Data Structures & Algorithms, Web Development, and Cybersecurity**  
-- 🛠 Exploring projects in **Python, C++, and Full-Stack Web Apps**  
+- 🛠 Exploring projects in **Python, C++, Java and Full-Stack Web Apps**  
 - 🎯 Goal: Secure a paid internship by the end of 2nd year  
 - ⚡ Fun fact: I enjoy graphic design in my free time  
 

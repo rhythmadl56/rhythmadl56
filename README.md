@@ -1,6 +1,6 @@
 # Hey there, I'm Rhythm 👋  
 
-🎓 B.Tech CSE Student | 💻 Aspiring Developer | 🔒 Cybersecurity Enthusiast  
+🎓 B.E CSE Student | 💻 Aspiring Developer | 🔒 Cybersecurity Enthusiast | 🗨️Graphic Designer
 
 ---
 

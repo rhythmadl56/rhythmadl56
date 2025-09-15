@@ -30,7 +30,7 @@
 ## 📌 Featured Projects  
 🔐 [Password Strength Checker](https://github.com/rhythmadl56/password-strength-checker) – Python tool that analyzes password strength  
 🌐 [Portfolio Website](https://github.com/rhythmadl56/portfolio) – Personal portfolio built with HTML, CSS, JS  
-📊 [Blog Page Development](https://github.com/rhythmadl56/blog-page-development) – A responsive blog page project  
+📊 [Attendance Calculator](https://github.com/rhythmadl56/Attendance-Calculator.git) – A responsive blog page project  
 
 ---
 

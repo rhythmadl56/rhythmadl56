@@ -28,9 +28,9 @@
 ---
 
 ## 📌 Featured Projects  
-🔐 [Password Strength Checker](https://github.com/rhythmadl56/password-strength-checker) – Python tool that analyzes password strength  
+🔐 [Password Manager](https://github.com/rhythmadl56/Password-Manager.git) – Python tool that stores your credentials 
 🌐 [Portfolio Website](https://github.com/rhythmadl56/Portfolio-Website.git) – Personal portfolio built with HTML, CSS, JS  
-📊 [Attendance Calculator](https://github.com/rhythmadl56/Attendance-Calculator.git) – A responsive blog page project  
+📊 [Attendance Calculator](https://github.com/rhythmadl56/Attendance-Calculator.git) – Attendance Calculator for College Students 
 
 ---
 

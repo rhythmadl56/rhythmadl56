@@ -28,7 +28,7 @@
 ---
 
 ## 📌 Featured Projects  
-🔐 [Password Manager](https://github.com/rhythmadl56/Password-Manager.git) – Python tool that stores your credentials 
+🔐 [Password Manager](https://github.com/rhythmadl56/Password-Manager.git) – Python tool that stores your credentials <br>
 🌐 [Portfolio Website](https://github.com/rhythmadl56/Portfolio-Website.git) – Personal portfolio built with HTML, CSS, JS  
 📊 [Attendance Calculator](https://github.com/rhythmadl56/Attendance-Calculator.git) – Attendance Calculator for College Students 
 

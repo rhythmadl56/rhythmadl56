@@ -41,12 +41,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhythmadl56&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=rhythmadl56&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rhythmadl56&show_icons=true&theme=dark&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&bg_color=000000&cache_seconds=86400" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhythmadl56&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=rhythmadl56&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&stroke=00FF41" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhythmadl56&layout=compact&theme=dark&hide_border=true&title_color=00FF41&text_color=FFFFFF&bg_color=000000&cache_seconds=86400" height="170"/>
 </p>
 
 ---

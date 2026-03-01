@@ -41,11 +41,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhythmadl56&show_icons=true&theme=transparent&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&border_color=00FF41&bg_color=00000000&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rhythmadl56&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=rhythmadl56&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhythmadl56&layout=compact&theme=transparent&title_color=00FF41&text_color=FFFFFF&border_color=00FF41&bg_color=00000000&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhythmadl56&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
 </p>
 
 ---
@@ -53,17 +54,9 @@
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://github.com/rhythmadl56">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rhythmadl">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linktr.ee/ronakadl">
-    <img src="https://img.icons8.com/fluency/48/link.png" width="45"/>
-  </a>
+  <a href="https://github.com/rhythmadl56">GitHub</a> •
+  <a href="https://www.linkedin.com/in/rhythmadl">LinkedIn</a> •
+  <a href="https://linktr.ee/ronakadl">Linktree</a>
 </p>
 
 <p align="center">

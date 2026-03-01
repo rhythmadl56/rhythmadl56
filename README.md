@@ -1,5 +1,3 @@
-<h1 align="center">Rhythm</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Creative+Problem+Solver;Cybersecurity+Enthusiast;Always+Building" />
 </p>

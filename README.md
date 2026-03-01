@@ -1,45 +1,95 @@
-# Hey there, I'm Rhythm 👋  
-
-🎓 B.E CSE Student | 💻 Aspiring Developer | 🔒 Cybersecurity Enthusiast | 🗨️Graphic Designer
-
----
-
-## 🚀 About Me  
-- 🌱 Currently diving deep into **Java, Data Structures & Algorithms, Web Development, and Cybersecurity**  
-- 🛠 Exploring projects in **Python, C++, Java and Full-Stack Web Apps**  
-- 🎯 Goal: Secure a paid internship by the end of 2nd year  
-- ⚡ Fun fact: I enjoy graphic design in my free time  
-
----
-
-## 🧑‍💻 Tech Stack  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Rhythm;Computer+Science+Student;Cybersecurity+Enthusiast;I+Build.+I+Break.+I+Learn." />
+</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/STATUS-LEARNING_RELENTLESSLY-00FF41?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://komarev.com/ghpvc/?username=rhythmadl56&label=PROFILE+VIEWS&color=00FF41&style=flat-square" />
 </p>
 
+---
+
+```bash
+> whoami
+Rhythm | B.E CSE | Developer | Security Explorer
+```
 
 ---
 
-## 📌 Featured Projects  
-🔐 [Password Manager](https://github.com/rhythmadl56/Password-Manager.git) – Python tool that stores your credentials <br>
-🌐 [Portfolio Website](https://github.com/rhythmadl56/Portfolio-Website.git) – Personal portfolio built with HTML, CSS, JS  
-📊 [Attendance Calculator](https://github.com/rhythmadl56/Attendance-Calculator.git) – Attendance Calculator for College Students 
+## 🧠 About Me
+
+- 🎓 B.E Computer Science Student  
+- 🔒 Interested in Cybersecurity & Systems  
+- 💻 Exploring Java, DSA & Web Development  
+- 🛠 Building projects to understand how things work internally  
+- 🎯 Target: Paid internship before 3rd year  
 
 ---
 
-## 📈 GitHub Stats  
-![Rhythm's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhythmadl56&show_icons=true&theme=tokyonight)  
+## ⚙️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,git,github,linux" />
+</p>
 
 ---
 
-## 📫 Connect With Me  
-- GitHub: [@rhythmadl56](https://github.com/rhythmadl56)  
-- Linkedin: *(www.linkedin.com/in/rhythmadl)*
-- Linktree: *(https://linktr.ee/ronakadl)*
+## 🚀 Projects
+
+🛡 **Password Manager**  
+🔗 https://github.com/rhythmadl56/Password-Manager  
+
+🌐 **Portfolio Website**  
+🔗 https://github.com/rhythmadl56/Portfolio-Website  
+
+📊 **Attendance Calculator**  
+🔗 https://github.com/rhythmadl56/Attendance-Calculator  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rhythmadl56&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhythmadl56&theme=black-ice&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/rhythmadl56/rhythmadl56/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://github.com/rhythmadl56">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rhythmadl">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="https://linktr.ee/ronakadl">
+    <img src="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=39E09B"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Terminal Loop
+
+```c
+while(alive) {
+    learn();
+    build();
+    break();
+    repeat();
+}
+```

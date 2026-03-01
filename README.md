@@ -54,9 +54,17 @@
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://github.com/rhythmadl56">GitHub</a> •
-  <a href="https://www.linkedin.com/in/rhythmadl">LinkedIn</a> •
-  <a href="https://linktr.ee/ronakadl">Linktree</a>
+  <a href="https://github.com/rhythmadl56">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rhythmadl">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linktr.ee/ronakadl">
+    <img src="https://img.icons8.com/fluency/48/link.png" width="45"/>
+  </a>
 </p>
 
 <p align="center">

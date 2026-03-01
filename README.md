@@ -58,15 +58,18 @@
 
 <p align="center">
   <a href="https://github.com/rhythmadl56">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45"/>
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45"/><br/>
+    <sub>GitHub</sub>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rhythmadl">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45"/><br/>
+    <sub>LinkedIn</sub>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linktr.ee/ronakadl">
-    <img src="https://img.icons8.com/fluency/48/link.png" width="45"/>
+    <img src="https://cdn.simpleicons.org/linktree/39E09B" width="45"/><br/>
+    <sub>Linktree</sub>
   </a>
 </p>
 
